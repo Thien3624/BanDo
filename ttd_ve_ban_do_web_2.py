@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 
 import numpy as np
+import cv2
 from search import *
 
 
